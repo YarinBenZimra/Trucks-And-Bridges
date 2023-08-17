@@ -1,0 +1,5 @@
+1
+6.3000, 6.8000
+5
+
+\\ The output is printed between the input and then the program ends
